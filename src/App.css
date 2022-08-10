@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+.cards{
+  margin : 2rem ;
+}
+.App > button{
+  font-size: 2rem ;
+  padding: 10px 24px;
+}
